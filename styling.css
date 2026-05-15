@@ -4,7 +4,7 @@ body {
 
 .diceimg{
     width:150px;
-    height:175px;
+    height:170px;
 }
 
 .blue-border{
@@ -18,23 +18,9 @@ body {
     justify-content: space-around;
     width:400px;
     text-align:center;
-    background-color:rgb(186, 72, 154);
-    color:purple;
-    border-bottom: 5px solid rgb(138, 39, 187);
-    
-
-
-
+    background-color:rgb(134, 33, 129);
+    color:rgb(88, 21, 88);
+    border-bottom: 5px solid rgb(11, 48, 128);
+    border-radius: 10px;
 }
-
-
-
-
-
-
-
-
-
-
-
 
